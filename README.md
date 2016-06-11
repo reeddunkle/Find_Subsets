@@ -11,7 +11,7 @@
 Clone this git repository:
 
 ```
-
+git clone https://github.com/reeddunkle/Find_Subsets.git
 ```
 
 ### Activation!
@@ -19,7 +19,7 @@ Clone this git repository:
 Navigate to the repo:
 
 ```
-
+cd Find_Subsets
 ```
 
 Run the script
