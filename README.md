@@ -58,8 +58,10 @@ if item in set:
 
 - Let the user input a set
 - Change the set's `__repr__`
-- Change the for-loop on line 23 to a set comprehension
+- Try to change the for-loop on line 23 to a set comprehension
 
 ```
 subs = {set.union(item, to_apply) for item in result}
 ```
+
+(The above code isn't complete)
