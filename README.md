@@ -57,7 +57,7 @@ if item in set:
 ## TODO
 
 - Let the user input a set
-- Change the set's __repr__
+- Change the set's `__repr__`
 - Change the for-loop on line 23 to a set comprehension
 
 ```
