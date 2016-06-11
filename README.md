@@ -30,9 +30,7 @@ python subsets.py
 
 <img src=http://i.imgur.com/328fre1.png>
 
-----
 
-This ended up being trickier in practice than it first seemed. Surprised?
 
 ## Mistakes I made:
 
